@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+websockets>=11,<13
+python-multipart
