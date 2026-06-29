@@ -55,7 +55,7 @@ cd ais-suape
 # Criar venv
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
-.venv\Scripts\activate     # Windows
+.venv\Scripts/activate     # Windows
 
 # Instalar dependências
 pip install -r requirements.txt
@@ -84,3 +84,14 @@ python ais_suape_kmz_kpi.py
 Desenvolvido por **Charlie Bravo (Jossian Brito)** ⚓
 
 Marinha Mercante · Rebocadores Portuários · Inovação Digital
+
+## Licença e Copyright
+
+**Copyright (c) 2026 Jossian Brito**
+
+Este projeto é licenciado sob a **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+- Uso comercial não é permitido sem autorização expressa prévia do autor.
+- A atribuição ao autor original é obrigatória.
+
+O texto completo da licença está no arquivo [LICENSE](LICENSE).
